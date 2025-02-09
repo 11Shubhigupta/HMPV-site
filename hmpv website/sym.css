@@ -1,0 +1,19 @@
+.sym h1{
+    font-size: 80px;
+    padding-bottom: 8px;
+    text-align: center;
+}
+.sym p{
+    font-size: 15px;
+}
+.sym-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:90vh;
+
+}
+.sym-img img{
+    height:500px;
+    width:700px;
+}

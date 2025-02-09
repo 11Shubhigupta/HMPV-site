@@ -1,0 +1,19 @@
+.precautions h1{
+    font-size: 80px;
+    padding-bottom: 8px;
+    text-align: center;
+}
+.precautions p{
+    font-size: 15px;
+}
+.pre-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:90vh;
+
+}
+.pre-img img{
+    height:500px;
+    width:700px;
+}

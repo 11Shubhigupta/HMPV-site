@@ -1,0 +1,102 @@
+*{ 
+    margin:0;
+    padding:0;
+}
+.header h1{
+    font-size: 100px;
+    font-weight:600px;
+text-align: center;
+margin-top: 50px;
+}
+.header h3{
+    font-size:20px;
+    font-weight:40px;
+text-align: center;
+padding-top: 15px;
+}
+.menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+
+}
+.menu img{
+    height: 500px;
+    width:800px;
+    }
+.intro{
+    display: flex;
+    align-items: center;
+}
+.introleft h2{
+font-size: 40px;
+padding-left: 15px;
+}
+.introleft p{
+    font-size: 18px;
+    padding-left: 155px;
+    }
+.introright img{
+    padding-left: 30px;
+}
+
+ .history{
+ display: flex;
+ align-items: center;
+  }
+
+ .historyleft h2{
+font-size: 40px;
+padding-left: 15px;
+padding-top: 15px;
+}
+.historyleft p{
+ font-size: 18px;
+ padding-left: 155px;
+ }
+ .historyright img{
+    padding-left: 30px;
+}
+
+ .sym{
+    display: flex;
+    align-items: center;
+     }
+     .symleft h2{
+font-size: 40px;
+   padding-left: 15px;
+   padding-top: 15px;
+  }
+
+.symleft p{
+  font-size: 18px;
+  padding-left: 155px;
+  }
+.symright img{
+    padding-left: 30px;
+}   
+
+.precaution{
+    display: flex;
+    align-items: center;
+     }
+.precautionleft h2{
+    font-size: 40px;
+  padding-left: 15px;
+  padding-top: 15px;
+  }
+.precautionleft p{
+  font-size: 18px;
+  padding-left: 155px;
+  }
+.precautionright img{
+    padding-left: 30px;
+}                           
+
+
+
+
+
+
+

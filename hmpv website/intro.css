@@ -1,0 +1,15 @@
+
+.intro h1{
+    font-size: 80px;
+    padding-bottom: 8px;
+}
+.intro p{
+    font-size: 15px;
+}
+.img img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:90vh;
+
+}
